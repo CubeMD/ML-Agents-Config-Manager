@@ -1,0 +1,42 @@
+behaviors:
+  Dino:
+    trainer_type: ppo
+    hyperparameters:
+      batch_size: 256
+      buffer_size: 4096
+      learning_rate: 0.0002
+      learning_rate_schedule: linear
+      beta: 0.05
+      epsilon: 0.2
+      lambd: 0.95
+      num_epoch: 3
+    max_steps: 2000000
+    time_horizon: 50
+    summary_freq: 10000
+    keep_checkpoints: 5
+    checkpoint_interval: 500000
+    threaded: true
+    network_settings:
+      vis_encoder_type: simple
+      normalize: false
+      hidden_units: 64
+      num_layers: 3
+    reward_signals:
+      extrinsic:
+        strength: 1.0
+        gamma: 0.99
+env_settings:
+  env_path: C:\Users\CubeMD\Desktop\Builds\DinoContinuous\Dino
+  num_envs: 3
+  seed: 1902
+engine_settings:
+  time_scale: 20
+checkpoint_settings:
+  run_id: dino-continuous-38
+debug: true
+torch_settings:
+  device: cuda
+environment_parameters:
+  decision_frequency: 10
+  environments_per_unity_process: 20
+  multi_scene: 0

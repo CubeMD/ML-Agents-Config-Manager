@@ -1,0 +1,45 @@
+Mono path[0] = 'C:/Users/CubeMD/Desktop/Builds/DinoContinuous/Dino_Data/Managed'
+Mono config path = 'C:/Users/CubeMD/Desktop/Builds/DinoContinuous/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.25f1 (9b9180224418)
+[Subsystems] Discovering subsystems at path C:/Users/CubeMD/Desktop/Builds/DinoContinuous/Dino_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 SUPER (ID=0x1e84)
+    Vendor:   
+    VRAM:     8011 MB
+    Driver:   30.0.15.1295
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.119 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.739700 ms
+Fallback handler could not load library C:/Users/CubeMD/Desktop/Builds/DinoContinuous/Dino_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/CubeMD/Desktop/Builds/DinoContinuous/Dino_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library C:/Users/CubeMD/Desktop/Builds/DinoContinuous/Dino_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/CubeMD/Desktop/Builds/DinoContinuous/Dino_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/CubeMD/Desktop/Builds/DinoContinuous/Dino_Data/Mono/libdl.so.dll
+Fallback handler could not load library C:/Users/CubeMD/Desktop/Builds/DinoContinuous/Dino_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/CubeMD/Desktop/Builds/DinoContinuous/Dino_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/CubeMD/Desktop/Builds/DinoContinuous/Dino_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library C:/Users/CubeMD/Desktop/Builds/DinoContinuous/Dino_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/CubeMD/Desktop/Builds/DinoContinuous/Dino_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/CubeMD/Desktop/Builds/DinoContinuous/Dino_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library C:/Users/CubeMD/Desktop/Builds/DinoContinuous/Dino_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/CubeMD/Desktop/Builds/DinoContinuous/Dino_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/CubeMD/Desktop/Builds/DinoContinuous/Dino_Data/Mono/libdl.so.dll
+Fallback handler could not load library C:/Users/CubeMD/Desktop/Builds/DinoContinuous/Dino_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/CubeMD/Desktop/Builds/DinoContinuous/Dino_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/CubeMD/Desktop/Builds/DinoContinuous/Dino_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library C:/Users/CubeMD/Desktop/Builds/DinoContinuous/Dino_Data/Mono/libSystem.dylib
+Unable to save timers to file C:/Users/CubeMD/Desktop/Builds/DinoContinuous/Dino_Data\ML-Agents\Timers\DinoContinuous_timers.json
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 1019c -> priority: 1 
+  Thread -> id: d0b0 -> priority: 1 
+  Thread -> id: 8fb4 -> priority: 1 
+  Thread -> id: c0e8 -> priority: 1 
+  Thread -> id: 76ec -> priority: 1 
+  Thread -> id: 9ce4 -> priority: 1 
+  Thread -> id: 8cd0 -> priority: 1 
+  Thread -> id: c478 -> priority: 1 
