@@ -1,0 +1,160 @@
+
+dino-delayed-0
+  - seed: -1
+  - decision_period: 10
+
+dino-delayed-1
+  - seed: -1
+  - decision_period: 20
+
+dino-delayed-2
+  - seed: -1
+  - decision_period: 30
+
+dino-delayed-3
+  - seed: -1
+  - decision_period: 40
+
+dino-delayed-4
+  - seed: -1
+  - decision_period: 50
+
+dino-delayed-5
+  - seed: -1
+  - decision_period: 60
+
+dino-delayed-6
+  - seed: -1
+  - decision_period: 70
+
+dino-delayed-7
+  - seed: -1
+  - decision_period: 80
+
+dino-delayed-8
+  - seed: -1
+  - decision_period: 90
+
+dino-delayed-9
+  - seed: -1
+  - decision_period: 100
+
+dino-delayed-10
+  - seed: -1
+  - decision_period: 10
+
+dino-delayed-11
+  - seed: -1
+  - decision_period: 20
+
+dino-delayed-12
+  - seed: -1
+  - decision_period: 30
+
+dino-delayed-13
+  - seed: -1
+  - decision_period: 40
+
+dino-delayed-14
+  - seed: -1
+  - decision_period: 50
+
+dino-delayed-15
+  - seed: -1
+  - decision_period: 60
+
+dino-delayed-16
+  - seed: -1
+  - decision_period: 70
+
+dino-delayed-17
+  - seed: -1
+  - decision_period: 80
+
+dino-delayed-18
+  - seed: -1
+  - decision_period: 90
+
+dino-delayed-19
+  - seed: -1
+  - decision_period: 100
+
+dino-delayed-20
+  - seed: -1
+  - decision_period: 10
+
+dino-delayed-21
+  - seed: -1
+  - decision_period: 20
+
+dino-delayed-22
+  - seed: -1
+  - decision_period: 30
+
+dino-delayed-23
+  - seed: -1
+  - decision_period: 40
+
+dino-delayed-24
+  - seed: -1
+  - decision_period: 50
+
+dino-delayed-25
+  - seed: -1
+  - decision_period: 60
+
+dino-delayed-26
+  - seed: -1
+  - decision_period: 70
+
+dino-delayed-27
+  - seed: -1
+  - decision_period: 80
+
+dino-delayed-28
+  - seed: -1
+  - decision_period: 90
+
+dino-delayed-29
+  - seed: -1
+  - decision_period: 100
+
+dino-delayed-30
+  - seed: -1
+  - decision_period: 10
+
+dino-delayed-31
+  - seed: -1
+  - decision_period: 20
+
+dino-delayed-32
+  - seed: -1
+  - decision_period: 30
+
+dino-delayed-33
+  - seed: -1
+  - decision_period: 40
+
+dino-delayed-34
+  - seed: -1
+  - decision_period: 50
+
+dino-delayed-35
+  - seed: -1
+  - decision_period: 60
+
+dino-delayed-36
+  - seed: -1
+  - decision_period: 70
+
+dino-delayed-37
+  - seed: -1
+  - decision_period: 80
+
+dino-delayed-38
+  - seed: -1
+  - decision_period: 90
+
+dino-delayed-39
+  - seed: -1
+  - decision_period: 100

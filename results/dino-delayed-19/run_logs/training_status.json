@@ -1,0 +1,74 @@
+{
+    "decision_period": {
+        "lesson_num": 0
+    },
+    "environments_per_unity_process": {
+        "lesson_num": 0
+    },
+    "multi_scene": {
+        "lesson_num": 0
+    },
+    "Dino": {
+        "checkpoints": [
+            {
+                "steps": 499980,
+                "file_path": "results\\dino-delayed-19\\Dino\\Dino-499980.onnx",
+                "reward": 89.14972804983456,
+                "creation_time": 1660430330.6330955,
+                "auxillary_file_paths": [
+                    "results\\dino-delayed-19\\Dino\\Dino-499980.pt"
+                ]
+            },
+            {
+                "steps": 999983,
+                "file_path": "results\\dino-delayed-19\\Dino\\Dino-999983.onnx",
+                "reward": 98.42858386039734,
+                "creation_time": 1660431346.6674118,
+                "auxillary_file_paths": [
+                    "results\\dino-delayed-19\\Dino\\Dino-999983.pt"
+                ]
+            },
+            {
+                "steps": 1499979,
+                "file_path": "results\\dino-delayed-19\\Dino\\Dino-1499979.onnx",
+                "reward": 99.64809913635254,
+                "creation_time": 1660432309.4295518,
+                "auxillary_file_paths": [
+                    "results\\dino-delayed-19\\Dino\\Dino-1499979.pt"
+                ]
+            },
+            {
+                "steps": 1999991,
+                "file_path": "results\\dino-delayed-19\\Dino\\Dino-1999991.onnx",
+                "reward": null,
+                "creation_time": 1660433280.7621977,
+                "auxillary_file_paths": [
+                    "results\\dino-delayed-19\\Dino\\Dino-1999991.pt"
+                ]
+            },
+            {
+                "steps": 2000116,
+                "file_path": "results\\dino-delayed-19\\Dino\\Dino-2000116.onnx",
+                "reward": null,
+                "creation_time": 1660433280.9062307,
+                "auxillary_file_paths": [
+                    "results\\dino-delayed-19\\Dino\\Dino-2000116.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2000116,
+            "file_path": "results\\dino-delayed-19\\Dino.onnx",
+            "reward": null,
+            "creation_time": 1660433280.9062307,
+            "auxillary_file_paths": [
+                "results\\dino-delayed-19\\Dino\\Dino-2000116.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.11.0"
+    }
+}

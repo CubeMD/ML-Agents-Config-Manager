@@ -1,0 +1,47 @@
+{
+    "decision_period": {
+        "lesson_num": 0
+    },
+    "environments_per_unity_process": {
+        "lesson_num": 0
+    },
+    "multi_scene": {
+        "lesson_num": 0
+    },
+    "Dino": {
+        "checkpoints": [
+            {
+                "steps": 499990,
+                "file_path": "results\\dino-delayed-9\\Dino\\Dino-499990.onnx",
+                "reward": 98.283282661438,
+                "creation_time": 1660424691.0004027,
+                "auxillary_file_paths": [
+                    "results\\dino-delayed-9\\Dino\\Dino-499990.pt"
+                ]
+            },
+            {
+                "steps": 501569,
+                "file_path": "results\\dino-delayed-9\\Dino\\Dino-501569.onnx",
+                "reward": 75.98605569203694,
+                "creation_time": 1660424693.7205608,
+                "auxillary_file_paths": [
+                    "results\\dino-delayed-9\\Dino\\Dino-501569.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 501569,
+            "file_path": "results\\dino-delayed-9\\Dino.onnx",
+            "reward": 75.98605569203694,
+            "creation_time": 1660424693.7205608,
+            "auxillary_file_paths": [
+                "results\\dino-delayed-9\\Dino\\Dino-501569.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.11.0"
+    }
+}

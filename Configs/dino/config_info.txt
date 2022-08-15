@@ -1,0 +1,80 @@
+
+dino-0
+  - seed: -1
+  - decision_period: 10
+
+dino-1
+  - seed: -1
+  - decision_period: 20
+
+dino-2
+  - seed: -1
+  - decision_period: 30
+
+dino-3
+  - seed: -1
+  - decision_period: 40
+
+dino-4
+  - seed: -1
+  - decision_period: 50
+
+dino-5
+  - seed: -1
+  - decision_period: 10
+
+dino-6
+  - seed: -1
+  - decision_period: 20
+
+dino-7
+  - seed: -1
+  - decision_period: 30
+
+dino-8
+  - seed: -1
+  - decision_period: 40
+
+dino-9
+  - seed: -1
+  - decision_period: 50
+
+dino-10
+  - seed: -1
+  - decision_period: 10
+
+dino-11
+  - seed: -1
+  - decision_period: 20
+
+dino-12
+  - seed: -1
+  - decision_period: 30
+
+dino-13
+  - seed: -1
+  - decision_period: 40
+
+dino-14
+  - seed: -1
+  - decision_period: 50
+
+dino-15
+  - seed: -1
+  - decision_period: 10
+
+dino-16
+  - seed: -1
+  - decision_period: 20
+
+dino-17
+  - seed: -1
+  - decision_period: 30
+
+dino-18
+  - seed: -1
+  - decision_period: 40
+
+dino-19
+  - seed: -1
+  - decision_period: 50
