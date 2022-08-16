@@ -4,9 +4,9 @@ behaviors:
 
         hyperparameters:
             # Learning schedule
-            batch_size: 8
+            batch_size: 32
                 #opt_values: [64, 128, 256]
-            buffer_size: 512
+            buffer_size: 2048
                 #opt_values: [512, 2048]
             learning_rate: 0.0003
             learning_rate_schedule: linear
@@ -90,7 +90,7 @@ behaviors:
         # use TensorFlow backend
 
 env_settings:
-    env_path: C:\Users\marke\Builds\DelayedDino\Dino
+    env_path: Builds\DelayedDino\Dino
 #    env_args: null
 #    base_port: 5005
     num_envs: 3
