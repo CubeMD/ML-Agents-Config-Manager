@@ -20,7 +20,7 @@ For illustration purposes I have added files that I used for hyperparameter sear
 ## Installation
 
 1. Clone the project using a version control system of your choice.
-2. Download and install the [Anaconda](https://www.anaconda.com/products/individual), I suggest following [this](https://www.datacamp.com/tutorial/installing-anaconda-windows) tutorial. It is important to **ADD** Anaconda to path to allow you to use included batch files (Attention to the step 6 of the tutorial).
+2. Download and install the [Anaconda](https://www.anaconda.com/products/individual). It is important to select `Just Me` in `Install for:` step and add Anaconda to path to allow you to use included batch files.
 3. Open `Anaconda Navigator` once to finish up the installation. Just close it when it finishes loading.
 4. Run `Install.bat` (to be able to train using both CPU and GPU)
   
