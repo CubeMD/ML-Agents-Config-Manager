@@ -23,6 +23,7 @@ For illustration purposes, I have added files that I used for hyperparameter sea
 2. Download and install the [Anaconda](https://www.anaconda.com/products/individual). It is important to select `Just Me` in `Install for:` step and add Anaconda to the path to allow you to use the included batch files.
 3. Open `Anaconda Navigator` once to finish up the installation. Just close it when it finishes loading.
 4. Run `Install.bat` (to be able to train using both CPU and GPU)
+5. (Optional) If you have less than 32 Gigs of RAM you will most probably need to increase the amount of virtual memory
   
 ## Configs
 
