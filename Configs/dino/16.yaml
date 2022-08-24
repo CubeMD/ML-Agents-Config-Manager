@@ -26,7 +26,7 @@ behaviors:
         strength: 1.0
         gamma: 0.99
 env_settings:
-  env_path: C:\Users\marke\Builds\Dino\Dino
+  env_path: Builds\Dino\Dino
   num_envs: 3
   seed: -1
 engine_settings:
